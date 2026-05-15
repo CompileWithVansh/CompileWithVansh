@@ -4,7 +4,6 @@
 
 Full-stack developer based in India. I build web apps, backend systems, and ML platforms.
 
-Currently working on **[Executo](https://github.com/CompileWithVansh/executo)** — an online code runner.
 
 [`vanshgupta.live`](https://vanshgupta.live) · [`linkedin`](https://www.linkedin.com/in/vansh-gupta-cse) · [`email`](mailto:vanshgupta7017@gmail.com)
 

@@ -1,45 +1,98 @@
-<!-- Save this as README.md inside a repo named exactly: CompileWithVansh -->
+<!-- Save this as README.md inside a public repo named exactly: CompileWithVansh -->
 
-### Hi, I'm Vansh 👋
-
-Full-stack developer based in India. I build web apps, backend systems, and ML platforms.
-
-
-[`vanshgupta.live`](https://vanshgupta.live) · [`linkedin`](https://www.linkedin.com/in/vansh-gupta-cse) · [`email`](mailto:vanshgupta7017@gmail.com)
+<h1 align="center">Hey 👋 I'm Vansh Gupta</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI & ML Builder | ⚡ Backend Systems</h3>
 
 ---
 
-#### Stack
+## 👨‍💻 About Me
 
-<p>
+- 🎓 B.Tech CSE @ Invertis University (2023 – 2027)
+- 💻 I build full-stack apps, ML platforms, and containerized backends
+- 🚀 Currently shipping **Executo** — an online code runner for 4 languages
+- 🎯 Goal: land a strong software engineering role by 2026
+
+---
+
+## 🧠 Currently Learning
+
+- ⚡ Go for backend systems
+- 🏗️ System design + distributed architecture
+- 🐳 Docker + Kubernetes for production deployments
+- 🤖 Integrating LLMs into real applications
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,react,nextjs,nodejs,flask,docker,postgres,mongodb,redis,aws,linux" />
-</p>
+</div>
 
 ---
 
-#### Stats
+## 🏆 What I'm Building
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CompileWithVansh&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&icon_color=EC4899&text_color=8B949E&title_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileWithVansh&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6&text_color=8B949E&title_color=ffffff" />
-</p>
+- 🧠 **Executo** — Online code runner with Judge0, Go backend, Next.js frontend
+- 🫀 **PulseIQ** — Heart disease prediction (85% accuracy, 0.945 ROC-AUC)
+- 📝 **Blogify** — Multi-architecture blog platform (MERN + Strapi)
+- 🅿️ **Smart Parking** — IoT system with Arduino + IR sensors
 
 ---
 
-#### Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CompileWithVansh/CompileWithVansh/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CompileWithVansh&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CompileWithVansh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=CompileWithVansh&theme=dracula&no-frame=true&column=7" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/CompileWithVansh/CompileWithVansh/output/snake.svg" />
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vansh-gupta-cse" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/CompileWithVansh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://vanshgupta.live" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+  </a>
+  <a href="mailto:vanshgupta7017@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</div>
+
+---
+
+⭐️ *Building daily. Learning daily. Growing daily.*
 
 <!--
 ═══════════════════════════════════════════════════════════════════
- SETUP — to make the contribution graph animation work
+ SETUP — to make the contribution snake animation work
 ═══════════════════════════════════════════════════════════════════
 
-1. Create a public repo named exactly: CompileWithVansh
-2. Add this file as README.md in that repo
-3. Create .github/workflows/snake.yml in the SAME repo with:
+The snake image breaks until you set up the GitHub Action that
+generates it. Steps:
+
+1. Make sure this README.md is in a public repo named exactly:
+   CompileWithVansh
+
+2. In the SAME repo, create the file: .github/workflows/snake.yml
+   with this content:
 
 ────────────────────────────────────────────────────────────────────
 name: Generate Snake
@@ -60,8 +113,7 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: CompileWithVansh
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#EC4899&color_dots=#1a1f2e,#7c2d6f,#be185d,#ec4899,#f59e0b
+          outputs: dist/snake.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -71,6 +123,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ────────────────────────────────────────────────────────────────────
 
-4. Trigger the workflow manually once from the Actions tab.
+3. Go to the Actions tab in that repo
+4. Click "Generate Snake" → "Run workflow" (manually trigger once)
+5. Wait ~30 seconds, refresh your profile — snake will be alive
+
+The action runs every 24 hours after that, keeping it fresh.
 ═══════════════════════════════════════════════════════════════════
 -->

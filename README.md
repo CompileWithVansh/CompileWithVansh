@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=CompileWithVansh&theme=dracula&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app?username=CompileWithVansh&theme=dracula&no-frame=true&column=7&hide=ISSUE,REVIEW" />
 </div>
 
 ---

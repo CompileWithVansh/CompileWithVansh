@@ -1,5 +1,3 @@
-<!-- Save this as README.md inside a public repo named exactly: CompileWithVansh -->
-
 <h1 align="center">Hey 👋 I'm Vansh Gupta</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI & ML Builder | ⚡ Backend Systems</h3>
 
@@ -79,54 +77,3 @@
 ---
 
 ⭐️ *Building daily. Learning daily. Growing daily.*
-
-<!--
-═══════════════════════════════════════════════════════════════════
- SETUP — to make the contribution snake animation work
-═══════════════════════════════════════════════════════════════════
-
-The snake image breaks until you set up the GitHub Action that
-generates it. Steps:
-
-1. Make sure this README.md is in a public repo named exactly:
-   CompileWithVansh
-
-2. In the SAME repo, create the file: .github/workflows/snake.yml
-   with this content:
-
-────────────────────────────────────────────────────────────────────
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: CompileWithVansh
-          outputs: dist/snake.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-────────────────────────────────────────────────────────────────────
-
-3. Go to the Actions tab in that repo
-4. Click "Generate Snake" → "Run workflow" (manually trigger once)
-5. Wait ~30 seconds, refresh your profile — snake will be alive
-
-The action runs every 24 hours after that, keeping it fresh.
-═══════════════════════════════════════════════════════════════════
--->

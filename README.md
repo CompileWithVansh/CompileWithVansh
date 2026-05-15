@@ -51,9 +51,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## � Activity
 
-<img src="https://raw.githubusercontent.com/CompileWithVansh/CompileWithVansh/output/snake.svg" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CompileWithVansh&theme=react-dark&hide_border=true&area=true&color=EC4899&line=F59E0B&point=ffffff&bg_color=0d1117" />
+</div>
 
 ---
 

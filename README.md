@@ -37,16 +37,15 @@
 - 🅿️ **Smart Parking** — IoT system with Arduino + IR sensors
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CompileWithVansh&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CompileWithVansh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=CompileWithVansh&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=CompileWithVansh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=CompileWithVansh&theme=dracula&no-frame=true&column=7&hide=ISSUE,REVIEWS,REVIEW&v=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CompileWithVansh&theme=dracula&no-frame=true&column=7&margin-w=15&hide=ISSUE,REVIEWS,REVIEW" />
 </div>
 
 ---
